@@ -1,9 +1,9 @@
 # onlinevsoffline
-An essay that talks about if digital world is more real than the offline world 
 
 "The Internet is so big, so powerful and pointless that for some people it is a complete substitute for life" Andrew Brown 
 
 These days the use of the internet and techonoly is almost indispensable in our daily lives, but this does not make the digital world more real than the offline world, but we can find a multitude of compatibility with others, this does not mean that it is authentic and real leading to different risks. Internet services and web (social networks, blogs, forums, wikis, microblogging, etc.) are multidirectional and open channels, which allow users to achieve maximum interaction between them, while providing new opportunities for collaboration, expression and participation. First we can not compare the real world with the digital world, second identity theft is a latent risk and finally the technology is a tool to help society and not for a life change. Acording to the publication of  User Guide digital identity and reputation online “The ICT(information of Communication and Technologies) get create an "expanded identity" in most of its users: enhance their skills and allow them to stay in touch with others while maintaining different levels of relationships, intimacy,commitment,etc. A large portion of users are already developing these skills and using the advantages that encompasses the idea of digital identity with varying degrees of commitment, attachment or disclosure of your privacy”, but what is the price about this information?
+In this essay we are going to talk about the pros or contrats and its consequences related to the battle between the digital reality and the offline reality.  
 
 Older generations often comment that millenials depend on the Internet. Facebook has become a yearbook. Twitter their venting place and Tumblr their creating realm. We tend to put our best face online. We have control of what we show and what we hide. That doesn't make their online world more real, if not fake, because of its own definition: digital = not real.
 
@@ -16,3 +16,14 @@ there, you can see it, touch it, smell it, something digital will never have.
 
 Secondly, because of all the consequences it brings to consider your digital world as the real one, as Bauman says “Today we live simultaneously in two parallel and different worlds… We are slowly forgotten, or have never learned the art of dialogue… The future of our cohabitation in modern life is based on the development of the art of dialogue. Dialogue involves a real intention to understand each other to live together” Online world is making people dependant to this way of communication, and in a close future we will become merely robots that will forget the act of human relationship and even worse the act of dialog that is so important in order to exchange ideas and information. Digital world is no real and many people don't seem to understand it. 
 
+In conclusion, we can’t consider the online world as another reality or even consider it our new reality. The consequences of this type of decision can bring no only complications to us, but to the whole humanity. First because of the lost of human contact and dialogue, because we grow accustomed to talk to other through a screen and not having the eye to eye contact, creating puppets of the digital world. But the worst part of this is the problems it causes to our identity and personal life. Any person can our identity and destroy it or destroy it ourselves because we get so deep on the web that we forget the real life, the life were we need to live and not in one that will never exist no matter what. 
+The consequences are bigger if we adopt the digital world at full. The best way to avoid this is to use technology only when necessary and stop a dependency on this gadgets and social media that only corrupt our humanity. We need to understand when digital media helps us and when it doesn’t, only by then we would have a balanced life were we can live with online and offline worlds. 
+
+References
+- Tapscott, D. (2009). La era digital. McGraw Hill. Retrieved from Universidad Tecnológica de México online library
+
+- “Vivimos en dos mundos paralelos y diferentes: el online y el offline” (2014). Differences between online and offline life. Retrieved July. 15, 2014, from http://www.clarin.com/
+
+- Internet Live Stats (2015) Retrieved July 15, 2015 from http://www.internetlivestats.com/ 
+
+- 
