@@ -27,4 +27,6 @@ References
 
 - Internet Live Stats (2015) Retrieved July 15, 2015 from http://www.internetlivestats.com/ 
 
-- 
+- Lee, J. (14 de january de 2014). makeuseof. From Theinternet: http://www.makeuseof.com/tag/6-warning-signs-digital-identity-theft-shouldnt-ignore/
+
+- SANTO-, M. A.-Ó. (10 de Marzo de 2013). INTECO. From Guía para usuarios: identidad digital y reputación online Página 18 de 55: PDF]Guia para usuarios: identidad digital y reputación online- file:///C:/Users/Jos%C3%A9Jaime/Downloads/guia_identidad_reputacion_usuarios%20(1).pdf
